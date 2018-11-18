@@ -1,0 +1,11 @@
+1 bad az zadane sabte shomare taid  napadid beshe on inpute o bahshe code faalsazi biad
++ 2 width on o ziad kon o bebin chejori mishe ke bezari text-align center
++ 3 ye delay 1 saniei ezafekon
++ 4 bego ke bad ke safhe load shod besh in animation ezafe beshe
++ 5 vase sokme taid ye effect bede ke biad to cheshm
+
++ ebteda hame chi gheib bashe
++ kollan css ha mire on bala
++ avale kar ye loading darim faghat ke micharkhe
++ bade 1 sanie in gheib mishe be baghie eleman ha css hazele ro midi o display none o hazf mikoni
++ bad az in ke code activesh o zad bere ye matn o ye ax neshon bede
